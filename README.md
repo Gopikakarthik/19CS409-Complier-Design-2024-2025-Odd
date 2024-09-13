@@ -73,7 +73,8 @@ To write a C program to implement a symbol table.
     }
 
 ## OUTPUT 
-    ![Screenshot 2024-09-13 194619](https://github.com/user-attachments/assets/31c195e9-6d90-4596-a391-d4bc206d148f)
+
+![Screenshot 2024-09-13 194619](https://github.com/user-attachments/assets/4f227e78-04cf-4fc9-8679-f819877d40d8)
 
 ## RESULT
 The program to implement a symbol table is executed and the output is verified.
